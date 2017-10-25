@@ -7,3 +7,4 @@ Only Atari environments are supported. Mujoco environments are not supported.
 
 Performance vs. tensorflow implementation in openai baseline on Atari Breakout:
 
+![alt text](https://github.com/keven425/ppo_pytorch/blob/master/chart.png?raw=true)
